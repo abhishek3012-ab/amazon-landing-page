@@ -28,3 +28,7 @@ Since this is a static website, no complex installation or local server is requi
    git clone [https://github.com/your-username/amazon-landing-page.git](https://github.com/your-username/amazon-landing-page.git)
 2. Navigate to the project folder.
 3. Double-click the index.html file to open it in your default web browser.
+
+⭐ If you like this project, consider giving the repository a star!
+
+Disclaimer: This is an educational project inspired by Amazon. It is not affiliated with or endorsed by Amazon.
